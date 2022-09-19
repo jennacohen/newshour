@@ -1,6 +1,11 @@
 # PBS NewsHour: Data Reporting + Visualizations
 
-<iframe src="https://gcp-us-east1.app.carto.com/map/98bd8ec6-1e11-49da-a5c2-b10ea47084e0" width="640px" height="540px"></iframe>
+📍 <a href="https://www.pbs.org/newshour/nation/in-louisiana-orphan-wells-seen-as-an-accident-waiting-to-happen">Orphaned oil and gas wells in Louisiana - Map visualization</a>:      
+
+
+<a href="https://www.pbs.org/newshour/nation/in-louisiana-orphan-wells-seen-as-an-accident-waiting-to-happen">
+  <kbd><img src="images/orphan-wells" alt="Orphaned oil and gas wells in Louisiana" width="250px"/></kbd>
+</a>  
 
 - orphan wells (embed to carto and link story)
 - womens euro
