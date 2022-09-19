@@ -20,7 +20,7 @@
 
 
 <a href="https://www.instagram.com/p/Ch2wuHFgD0f/">
-  <kbd><img src="images/pact-act.png" alt="At-home COVID tests" width="250px"/></kbd>
+  <kbd><img src="images/end-covid-test.png" alt="At-home COVID tests" width="250px"/></kbd>
 </a> 
 
 
