@@ -5,7 +5,7 @@
 
 <a href="https://www.instagram.com/p/CiX-mbgJeZ1/">
   <kbd><img src="images/xeriscaping.png" alt="Xeriscaping" width="250px"/></kbd>
-</a> 
+</a>    
 
 
 🇦🇫 <a href="https://www.instagram.com/p/Ch5pckCMKTe/">Afghanistan withdrawl</a>:      
@@ -13,7 +13,7 @@
 
 <a href="https://www.instagram.com/p/Ch5pckCMKTe/">
   <kbd><img src="images/afghan-withdrawl.png" alt="Afghanistan withdrawl" width="250px"/></kbd>
-</a> 
+</a>     
 
 
 🦠 <a href="https://www.instagram.com/p/Ch2wuHFgD0f/">At-home COVID test</a>:      
