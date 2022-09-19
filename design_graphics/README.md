@@ -1,5 +1,13 @@
 # PBS NewsHour: Design + Graphics 
 
+<a href="https://www.instagram.com/p/CgfcOECMGb4/">Monkeypox virus explainer</a>:      
+
+
+<a href="https://www.instagram.com/p/CgfcOECMGb4/">
+<img src="images/mpv-ig.jpg" alt="how monkeypox spreads graphic" width="250px" text-align=center/>
+</a>
+
+
 <a href="https://www.instagram.com/p/Cf9pnajFWp8/?utm_source=ig_web_copy_link">Uber investigation explainer</a>:      
 
 
