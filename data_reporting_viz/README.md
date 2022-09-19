@@ -40,7 +40,7 @@
 </a>
 
 
-📍 <a href="https://www.pbs.org/newshour/nation/in-louisiana-orphan-wells-seen-as-an-accident-waiting-to-happen">Orphaned oil and gas wells in Louisiana </a>- Map visualization:      
+📍 <a href="https://www.pbs.org/newshour/nation/in-louisiana-orphan-wells-seen-as-an-accident-waiting-to-happen">Orphaned oil and gas wells in Louisiana </a>- Interactive map visualization:      
 
 
 <a href="https://www.pbs.org/newshour/nation/in-louisiana-orphan-wells-seen-as-an-accident-waiting-to-happen">
