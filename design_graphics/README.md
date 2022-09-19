@@ -4,7 +4,7 @@
 
 
 <a href="https://www.instagram.com/p/CgfcOECMGb4/">
-<img src="images/mpv-ig.jpg" alt="how monkeypox spreads graphic" width="250px" border="1px solid white"/>
+  <kbd><img src="images/mpv-ig.jpg" alt="how monkeypox spreads graphic" width="250px"/></kbd>
 </a>
 
 
