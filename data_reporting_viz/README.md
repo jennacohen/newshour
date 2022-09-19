@@ -4,7 +4,7 @@
 
 
 <a href="https://www.pbs.org/newshour/nation/in-louisiana-orphan-wells-seen-as-an-accident-waiting-to-happen">
-  <kbd><img src="images/orphan-wells" alt="Orphaned oil and gas wells in Louisiana" width="250px"/></kbd>
+  <kbd><img src="images/orphan-wells.png" alt="Orphaned oil and gas wells in Louisiana" width="250px"/></kbd>
 </a>  
 
 - orphan wells (embed to carto and link story)
