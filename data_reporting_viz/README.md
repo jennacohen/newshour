@@ -1,10 +1,10 @@
 # PBS NewsHour: Data Reporting + Visualizations
 
-🇺🇸 <a href="https://www.pbs.org/newshour/politics/the-state-of-our-union-in-6-charts">State of the Union: 6 key issues - Data & graphic visualizations:</a>
+🇺🇸 <a href="https://www.pbs.org/newshour/politics/the-state-of-our-union-in-6-charts">State of the Union: 6 key issues </a>- Data & graphic visualizations:
 
 <a href="https://www.pbs.org/newshour/politics/the-state-of-our-union-in-6-charts"><kbd><img src="images/sotu-data.jpeg" alt="State of the Union: 6 key issues Data visualization" width="250px"/></kbd></a>
 
-📈 <a href="https://www.instagram.com/p/Cnxo1LIpqhL/">U.S. gun sales - Data & graphic visualizations:</a>
+📈 <a href="https://www.instagram.com/p/Cnxo1LIpqhL/">U.S. gun sales </a>- Data & graphic visualizations:
 
 <a href="https://www.instagram.com/p/Cnxo1LIpqhL/"><kbd><img src="images/guns.jpeg" alt="U.S. gun sales Data visualization" width="250px"/></kbd></a>
 
