@@ -1,5 +1,7 @@
 # PBS NewsHour: Data Reporting + Visualizations
 
+🫄 <a href="https://www.pbs.org/newshour/nation/how-south-dakota-voters-could-help-save-the-lives-of-uninsured-moms">Here’s what the pregnant and uninsured face in South Dakota </a>- Data visualization & page design
+
 🇺🇸 <a href="https://www.pbs.org/newshour/politics/the-state-of-our-union-in-6-charts">State of the Union: 6 key issues </a>- Data & graphic visualizations:
 
 <a href="https://www.pbs.org/newshour/politics/the-state-of-our-union-in-6-charts"><kbd><img src="images/sotu-data.jpeg" alt="State of the Union: 6 key issues Data visualization" width="250px"/></kbd></a>
