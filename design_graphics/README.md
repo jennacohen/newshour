@@ -1,5 +1,25 @@
 # PBS NewsHour: Design + Graphics
 
+🫄 <a href="https://www.instagram.com/p/CrgyX8JtGpi/">Abortion opinions</a>
+
+<a href="https://www.instagram.com/p/CrgyX8JtGpi/"><kbd><img src="images/abortion-opinion.jpeg" alt="Abortion opinions graphic" width="250px"></kbd></a>
+
+🇺🇸 <a href="https://www.instagram.com/p/CrenI0IpvQD/">Biden approval</a>
+
+<a href="https://www.instagram.com/p/CrenI0IpvQD/"><kbd><img src="images/biden-approval.jpeg" alt="Biden approval graphic" width="250px"></kbd></a>
+
+📚 <a href="https://www.instagram.com/p/CrbR9HasBFS/">Banned books</a>
+
+<a href="https://www.instagram.com/p/CrbR9HasBFS/"><kbd><img src="images/banned-books.jpeg" alt="banned books graphic" width="250px"></kbd></a>
+
+💨 <a href="https://www.youtube.com/watch?v=uVTz3qN1KaM">New York's illegal weed market</a>
+
+<a href="https://www.youtube.com/watch?v=uVTz3qN1KaM"><kbd><img src="images/ny-weed.jpeg" alt="New York's illegal weed market graphic" width="250px"></kbd></a>
+
+🏫 <a href="https://www.instagram.com/p/Cqv-RIAtIOS/">K-12 grades report</a>
+
+<a href="https://www.instagram.com/p/Cqv-RIAtIOS/"><kbd><img src="images/grades.jpeg" alt="grades report graphic" width="250px"></kbd></a>
+
 🚺 <a href="https://www.instagram.com/p/CpilusTJhMm/">International Women's Day</a>
 
 <a href="https://www.instagram.com/p/CpilusTJhMm/"><kbd><img src="images/IWD.jpeg" alt="International Women's Day graphic" width="250px"></kbd></a>
