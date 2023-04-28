@@ -10,7 +10,7 @@
 
 📚 <a href="https://www.pbs.org/newshour/arts/how-many-book-bans-were-attempted-in-your-state-use-this-map-to-find-out">How many book bans were attempted in your state? </a>- Data reporting
 
-<a href="https://www.pbs.org/newshour/arts/how-many-book-bans-were-attempted-in-your-state-use-this-map-to-find-out"><kbd><img src="images/book-bans" alt="book bans map" width="250px"/></kbd></a>
+<a href="https://www.pbs.org/newshour/arts/how-many-book-bans-were-attempted-in-your-state-use-this-map-to-find-out"><kbd><img src="images/book-bans.png" alt="book bans map" width="250px"/></kbd></a>
 
 🫄 <a href="https://www.pbs.org/newshour/nation/how-south-dakota-voters-could-help-save-the-lives-of-uninsured-moms">Here’s what the pregnant and uninsured face in South Dakota </a>- Data visualization & page design
 
