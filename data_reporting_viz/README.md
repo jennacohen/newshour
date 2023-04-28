@@ -1,6 +1,6 @@
 # PBS NewsHour: Data Reporting + Visualizations
 
-🫄 <a href="https://www.pbs.org/newshour/health/support-for-abortion-rights-has-grown-in-spite-of-bans-and-restrictions-poll-shows">Support for abortion rights has grown, poll shows </a>- Data visualization
+🫄 <a href="https://www.pbs.org/newshour/health/support-for-abortion-rights-has-grown-in-spite-of-bans-and-restrictions-poll-shows">Support for abortion rights has grown, poll shows </a>- Data visualizations
 
 <a href="https://www.pbs.org/newshour/health/support-for-abortion-rights-has-grown-in-spite-of-bans-and-restrictions-poll-shows"><kbd><img src="images/abortion-opinions.jpeg" alt="abortion opinions table graphic" width="250px"/></kbd></a>
 
