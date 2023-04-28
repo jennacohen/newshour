@@ -14,7 +14,7 @@
 
 💨 <a href="https://www.youtube.com/watch?v=uVTz3qN1KaM">New York's illegal weed market</a>
 
-<a href="https://www.youtube.com/watch?v=uVTz3qN1KaM"><kbd><img src="images/ny-weed.jpeg" alt="New York's illegal weed market graphic" width="250px"></kbd></a>
+<a href="https://www.youtube.com/watch?v=uVTz3qN1KaM"><kbd><img src="images/ny-weed.jpg" alt="New York's illegal weed market graphic" width="250px"></kbd></a>
 
 🏫 <a href="https://www.instagram.com/p/Cqv-RIAtIOS/">K-12 grades report</a>
 
