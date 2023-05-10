@@ -1,5 +1,21 @@
 # PBS NewsHour: Design + Graphics
 
+🩺 <a href="https://www.youtube.com/watch?v=zJW6BWsUCT0">Health care support for the incarcerated</a>
+
+<a href="https://www.youtube.com/watch?v=zJW6BWsUCT0"><kbd><img src="images/incarcerated-medicaid.jpeg" alt="Health care support for the incarcerated graphic" width="250px"></kbd></a>
+
+🇺🇸 <a href="https://www.instagram.com/p/CsELcUMOQsc/">Rep. George Santos arrested</a>
+
+<a href="https://www.instagram.com/p/CsELcUMOQsc/"><kbd><img src="images/santos.jpeg" alt="Rep. George Santos arrested graphic" width="250px"></kbd></a>
+
+🏫 <a href="https://www.instagram.com/p/Cr3nEMcJ8QV/">Nation's Report Card</a>
+
+<a href="https://www.instagram.com/p/Cr3nEMcJ8QV/"><kbd><img src="images/report-card.jpeg" alt="Nation's Report Card graphic" width="250px"></kbd></a>
+
+📰 <a href="https://www.instagram.com/p/Cryz5qTpurL/">World Press Freedom Day</a>
+
+<a href="https://www.instagram.com/p/Cryz5qTpurL/"><kbd><img src="images/press-freedom.jpeg" alt="World Press Freedom Day graphic" width="250px"></kbd></a>
+
 🫄 <a href="https://www.instagram.com/p/CrgyX8JtGpi/">Abortion opinions</a>
 
 <a href="https://www.instagram.com/p/CrgyX8JtGpi/"><kbd><img src="images/abortion-opinion.jpeg" alt="Abortion opinions graphic" width="250px"></kbd></a>
