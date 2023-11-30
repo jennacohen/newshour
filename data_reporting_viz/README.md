@@ -53,9 +53,3 @@
 <a href="https://www.pbs.org/newshour/nation/5-reasons-housing-is-so-expensive-right-now">
   <kbd><img src="images/housing-prices.jpeg" alt="5 reasons housing is so expensive right now" width="250px"/></kbd>
 </a>
-
-📍 <a href="https://www.pbs.org/newshour/nation/in-louisiana-orphan-wells-seen-as-an-accident-waiting-to-happen">Orphaned oil and gas wells in Louisiana </a>- Interactive map visualization:
-
-<a href="https://www.pbs.org/newshour/nation/in-louisiana-orphan-wells-seen-as-an-accident-waiting-to-happen">
-  <kbd><img src="images/orphan-wells.jpeg" alt="Orphaned oil and gas wells in Louisiana" width="250px"/></kbd>
-</a>
