@@ -1,5 +1,9 @@
 # PBS NewsHour: Data Reporting + Visualizations
 
+🫄 <a href="https://www.instagram.com/p/C15hEpVtnSW/">2023 was the hottest year on record </a>- Data & graphic visualizations:
+
+<a href="https://www.instagram.com/p/C15hEpVtnSW/"><kbd><img src="images/hottest-year.png" alt="hottest year on record bar chart graphic" width="250px"/></kbd></a>
+
 🫄 <a href="https://www.pbs.org/newshour/health/support-for-abortion-rights-has-grown-in-spite-of-bans-and-restrictions-poll-shows">Support for abortion rights has grown, poll shows </a>- Data & graphic visualizations:
 
 <a href="https://www.pbs.org/newshour/health/support-for-abortion-rights-has-grown-in-spite-of-bans-and-restrictions-poll-shows"><kbd><img src="images/abortion-opinions.jpeg" alt="abortion opinions table graphic" width="250px"/></kbd></a>
