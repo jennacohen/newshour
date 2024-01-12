@@ -1,6 +1,6 @@
 # PBS NewsHour: Design + Graphics
 
-⏰ Donate to PBS NewsHour
+⏰ <a href="https://github.com/jennacohen/newshour/blob/main/design_graphics/images/donation-countdown.gif">Donate to PBS NewsHour</a>
 
 <img src="images/donation-countdown.gif" alt="Donate to PBS NewsHour Countdown clock gif" width="250px"></kbd></a>
 
