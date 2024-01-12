@@ -1,5 +1,9 @@
 # PBS NewsHour: Design + Graphics
 
+⏰ Donate to PBS NewsHour
+
+<img src="images/donation-countdown.gif" alt="Donate to PBS NewsHour Countdown clock gif" width="250px"></kbd></a>
+
 🩺 <a href="https://www.youtube.com/watch?v=zJW6BWsUCT0">Health care support for the incarcerated</a>
 
 <a href="https://www.youtube.com/watch?v=zJW6BWsUCT0"><kbd><img src="images/incarcerated-medicaid.jpeg" alt="Health care support for the incarcerated graphic" width="250px"></kbd></a>
