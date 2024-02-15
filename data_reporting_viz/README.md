@@ -1,5 +1,9 @@
 # PBS NewsHour: Data Reporting + Visualizations
 
+🎞 <a href="https://youtu.be/vEMIBglapVM">2024 Motion Showreel</a>- Animated visualizations:
+
+<a href="https://youtu.be/vEMIBglapVM"><img src="images/showreel.jpeg" alt="jenna cohen showreel thumbnail" width="250px"></kbd></a>
+
 🇺🇸 <a href="https://www.pbs.org/newshour/politics/where-voters-stand-on-immigration">Americans are increasingly worried about immigration and national identity, poll shows </a>- Data & graphic visualizations:
 
 <a href="https://www.pbs.org/newshour/politics/where-voters-stand-on-immigration"><kbd><img src="images/openness-poll.jpeg" alt="national identity bar chart graphic" width="250px"/></kbd></a>

@@ -1,8 +1,12 @@
 # PBS NewsHour: Design + Graphics
 
+🎞 <a href="https://youtu.be/vEMIBglapVM">2024 Motion Showreel</a>
+
+<a href="https://youtu.be/vEMIBglapVM"><img src="images/showreel.jpeg" alt="jenna cohen showreel thumbnail" width="250px"></kbd></a>
+
 ⏰ <a href="https://github.com/jennacohen/newshour/blob/main/design_graphics/images/donation-countdown.gif">Donate to PBS NewsHour</a>
 
-<img src="images/donation-countdown.gif" alt="Donate to PBS NewsHour Countdown clock gif" width="250px"></kbd></a>
+<a href="https://github.com/jennacohen/newshour/blob/main/design_graphics/images/donation-countdown.gif"><img src="images/donation-countdown.gif" alt="Donate to PBS NewsHour Countdown clock gif" width="250px"></kbd></a>
 
 🩺 <a href="https://www.youtube.com/watch?v=zJW6BWsUCT0">Health care support for the incarcerated</a>
 
