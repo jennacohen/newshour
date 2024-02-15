@@ -1,5 +1,9 @@
 # PBS NewsHour: Data Reporting + Visualizations
 
+🇺🇸 <a href="https://www.pbs.org/newshour/politics/where-voters-stand-on-immigration">Americans are increasingly worried about immigration and national identity, poll shows </a>- Data & graphic visualizations:
+
+<a href="https://www.pbs.org/newshour/politics/where-voters-stand-on-immigration"><kbd><img src="images/openness-poll.jpeg" alt="national identity bar chart graphic" width="250px"/></kbd></a>
+
 🌡 <a href="https://www.instagram.com/p/C15hEpVtnSW/">2023 was the hottest year on record </a>- Data & graphic visualizations:
 
 <a href="https://www.instagram.com/p/C15hEpVtnSW/"><kbd><img src="images/hottest-year.png" alt="hottest year on record bar chart graphic" width="250px"/></kbd></a>
