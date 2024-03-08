@@ -1,6 +1,6 @@
 # PBS NewsHour: Data Reporting + Visualizations
 
-🎞 <a href="https://youtu.be/vEMIBglapVM">2024 Motion Showreel</a>- Animated visualizations:
+🎞 <a href="https://youtu.be/vEMIBglapVM">2024 Motion Showreel</a>- Animated data visualizations:
 
 <a href="https://youtu.be/vEMIBglapVM"><img src="images/showreel.jpeg" alt="jenna cohen showreel thumbnail" width="250px"></kbd></a>
 
