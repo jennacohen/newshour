@@ -4,9 +4,9 @@
 
 <a href="https://www.pbs.org/newshour/politics/majority-of-americans-dont-want-biden-as-the-democratic-candidate-but-he-hasnt-lost-ground-to-trump-poll-says "><img src="images/july-poll.png" alt="dem polling thumbnail" width="250px"></kbd></a>
 
-🇺🇸 <a href="Here’s how Americans feel about Biden and Trump as election season revs ">Here’s how Americans feel about Biden and Trump as election season revs up </a>- Data & graphic visualizations:
+🇺🇸 <a href="https://www.pbs.org/newshour/politics/heres-how-americans-feel-about-biden-and-trump-as-election-season-revs-up ">Here’s how Americans feel about Biden and Trump as election season revs up </a>- Data & graphic visualizations:
 
-<a href="Here’s how Americans feel about Biden and Trump as election season revs "><img src="images/june-poll.png" alt="biden trump key issues thumbnail" width="250px"></kbd></a>
+<a href="https://www.pbs.org/newshour/politics/heres-how-americans-feel-about-biden-and-trump-as-election-season-revs-up "><img src="images/june-poll.png" alt="biden trump key issues thumbnail" width="250px"></kbd></a>
 
 🤒 <a href="https://www.pbs.org/newshour/health/what-you-need-to-know-about-the-latest-outbreak-of-dengue-fever ">What you need to know about the latest outbreak of dengue fever </a>- Data & graphic visualizations:
 
