@@ -1,4 +1,49 @@
-# PBS NewsHour: Design + Graphics
+# PBS News: Design + Graphics
+
+<a href="https://www.instagram.com/p/C9shVLMREXw/ ">Biden endorses Harris</a>
+<a href="https://www.instagram.com/p/C9shVLMREXw/ "><img src="images/harris-endorsement.jpeg" alt="Biden endorses Harris thumbnail" width="250px"></a>
+
+<a href="https://www.pbs.org/newshour/politics/read-bidens-full-letter-announcing-the-end-of-his-2024-reelection-bid ">Biden ends bid – read full letter</a>
+<a href="https://www.pbs.org/newshour/politics/read-bidens-full-letter-announcing-the-end-of-his-2024-reelection-bid "><img src="images/biden-read-full.jpeg" alt="Biden ends bid – read full letter thumbnail" width="250px"></a>
+
+<a href="https://www.instagram.com/p/C9fd1ibpSbZ/ ">Sen. Menendez conviction</a>
+<a href="https://www.instagram.com/p/C9fd1ibpSbZ/ "><img src="images/menendez.jpeg" alt="Sen. Menendez conviction thumbnail" width="250px"></a>
+
+<a href="https://www.instagram.com/p/C9cl4PpJ8JT/ ">Classified documents case</a>
+<a href="https://www.instagram.com/p/C9cl4PpJ8JT/ "><img src="images/classified-docs.jpeg" alt="Classified documents case thumbnail" width="250px"></a>
+
+<a href="https://www.instagram.com/p/C9Kz2-bOLUu/ ">Biden letter</a>
+<a href="https://www.instagram.com/p/C9Kz2-bOLUu/ "><img src="images/biden-letter.jpeg" alt="Biden letter thumbnail" width="250px"></a>
+
+<a href="https://www.instagram.com/p/C9DDu1Vxktw/?img_index=1">Summer movies</a>
+<a href="https://www.instagram.com/p/C9DDu1Vxktw/?img_index=1"><img src="images/summer-movies.jpeg" alt="Summer movies thumbnail" width="250px"></a>
+
+<a href="https://www.instagram.com/p/C9Af2URRWM-/?img_index=1">Summer books</a>
+<a href="https://www.instagram.com/p/C9Af2URRWM-/?img_index=1"><img src="images/summer-books.jpeg" alt="Summer books thumbnail" width="250px"></a>
+
+🥵 <a href="https://www.instagram.com/p/C8m0P6_xI2-/?img_index=1 ">Extreme heat</a>
+<a href="https://www.instagram.com/p/C8m0P6_xI2-/?img_index=1 "><img src="images/extreme-heat.jpeg" alt="Extreme heat thumbnail" width="250px"></a>
+
+🩺 <a href="https://www.instagram.com/newshour/p/C8IaWgUAhZU/?img_index=1">Medical debt</a>
+<a href="https://www.instagram.com/newshour/p/C8IaWgUAhZU/?img_index=1"><img src="images/medical-debt.jpeg" alt="Medical debt thumbnail" width="250px"></a>
+
+🌡️ <a href="https://www.instagram.com/newshour/p/C72ghUDRUnz/">U.N. climate quote</a>
+<a href="https://www.instagram.com/newshour/p/C72ghUDRUnz/"><img src="images/.jpeg" alt="U.N. climate quote thumbnail" width="250px"></a>
+
+❓ <a href="https://www.instagram.com/p/C7pSu2HJKQF/?img_index=2">Trump conviction FAQ</a>
+<a href="https://www.instagram.com/p/C7pSu2HJKQF/?img_index=2"><img src="images/trump-faq.jpeg" alt="Trump conviction FAQ thumbnail" width="250px"></a>
+
+🕶️ <a href="https://www.instagram.com/newshour/p/C5lk0lyudGL/?img_index=1">Eclipse glasses</a>
+<a href="https://www.instagram.com/newshour/p/C5lk0lyudGL/?img_index=1"><img src="images/eclipse-glasses.jpeg" alt="Eclipse glasses thumbnail" width="250px"></a>
+
+🦠 <a href="https://www.instagram.com/newshour/p/C3-1as7pSmG/?img_index=1 ">CDC guidelines</a>
+<a href="https://www.instagram.com/newshour/p/C3-1as7pSmG/?img_index=1 "><img src="images/cdc-guidelines.jpeg" alt="CDC guidelines thumbnail" width="250px"></a>
+
+✅ <a href="https://www.instagram.com/p/C36UwVqNIfr/?igsh=dnZ2ZjlieGM3ZTZx&img_index=1 ">Michigan uncommitted voters</a>
+<a href="https://www.instagram.com/p/C36UwVqNIfr/?igsh=dnZ2ZjlieGM3ZTZx&img_index=1 "><img src="images/MI-uncommitted.jpeg" alt="Michigan uncommitted voters thumbnail" width="250px"></a>
+
+💵 <a href="https://www.instagram.com/p/C3qFgamONn0/?img_index=1">SLU descendants </a>
+<a href="https://www.instagram.com/p/C3qFgamONn0/?img_index=1"> <img src="images/SLU-descendants.jpeg" alt="SLU descendants thumbnail" width="250px"> </a>
 
 🎞 <a href="https://youtu.be/vEMIBglapVM">2024 Motion Showreel</a>
 
