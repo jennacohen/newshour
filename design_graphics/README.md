@@ -4,7 +4,7 @@
 
 <a href="https://www.instagram.com/p/C9shVLMREXw/ "><img src="images/harris-endorsement.jpeg" alt="Biden endorses Harris thumbnail" width="250px"></a>
 
-✉️ <a href="https://www.pbs.org/newshour/politics/read-bidens-full-letter-announcing-the-end-of-his-2024-reelection-bid ">Biden ends bid – read full letter</a>
+✉️ <a href="https://www.pbs.org/newshour/politics/read-bidens-full-letter-announcing-the-end-of-his-2024-reelection-bid ">Biden ends reelection bid – read full letter</a>
 
 <a href="https://www.pbs.org/newshour/politics/read-bidens-full-letter-announcing-the-end-of-his-2024-reelection-bid "><img src="images/biden-read-full.jpeg" alt="Biden ends bid – read full letter thumbnail" width="250px"></a>
 
