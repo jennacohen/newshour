@@ -10,9 +10,9 @@
 
 ⚖️ <a href="https://www.instagram.com/p/C9fd1ibpSbZ/ ">Sen. Menendez conviction</a>
 
-📄 <a href="https://www.instagram.com/p/C9fd1ibpSbZ/ "><img src="images/menendez.jpeg" alt="Sen. Menendez conviction thumbnail" width="250px"></a>
+<a href="https://www.instagram.com/p/C9fd1ibpSbZ/ "><img src="images/menendez.jpeg" alt="Sen. Menendez conviction thumbnail" width="250px"></a>
 
-<a href="https://www.instagram.com/p/C9cl4PpJ8JT/ ">Classified documents case</a>
+📄 <a href="https://www.instagram.com/p/C9cl4PpJ8JT/ ">Classified documents case</a>
 
 <a href="https://www.instagram.com/p/C9cl4PpJ8JT/ "><img src="images/classified-docs.jpeg" alt="Classified documents case thumbnail" width="250px"></a>
 
