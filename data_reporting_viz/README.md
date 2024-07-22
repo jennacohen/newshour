@@ -1,5 +1,21 @@
 # PBS NewsHour: Data Reporting + Visualizations
 
+🇺🇸 <a href="https://www.pbs.org/newshour/politics/majority-of-americans-dont-want-biden-as-the-democratic-candidate-but-he-hasnt-lost-ground-to-trump-poll-says ">These 3 Democrats didn’t do better than Biden in this poll against Trump. They also didn’t do any worse </a>- Data & graphic visualizations:
+
+<a href="https://www.pbs.org/newshour/politics/majority-of-americans-dont-want-biden-as-the-democratic-candidate-but-he-hasnt-lost-ground-to-trump-poll-says "><img src="images/july-poll.png" alt="dem polling thumbnail" width="250px"></kbd></a>
+
+🇺🇸 <a href="Here’s how Americans feel about Biden and Trump as election season revs ">Here’s how Americans feel about Biden and Trump as election season revs up </a>- Data & graphic visualizations:
+
+<a href="Here’s how Americans feel about Biden and Trump as election season revs "><img src="images/june-poll.png" alt="biden trump key issues thumbnail" width="250px"></kbd></a>
+
+🤒 <a href="https://www.pbs.org/newshour/health/what-you-need-to-know-about-the-latest-outbreak-of-dengue-fever ">What you need to know about the latest outbreak of dengue fever </a>- Data & graphic visualizations:
+
+<a href="https://www.pbs.org/newshour/health/what-you-need-to-know-about-the-latest-outbreak-of-dengue-fever "><img src="images/dengue.png" alt="dengue fever thumbnail" width="250px"></kbd></a>
+
+🇺🇸 <a href="https://www.pbs.org/newshour/politics/1-in-5-americans-think-violence-may-solve-u-s-divisions-poll-finds">1 in 5 Americans think violence may solve U.S. divisions, poll finds </a>- Data & graphic visualizations:
+
+<a href="https://www.pbs.org/newshour/politics/1-in-5-americans-think-violence-may-solve-u-s-divisions-poll-finds"><img src="images/apr-poll.png" alt="presidential immunity graphic thumbnail" width="250px"></kbd></a>
+
 🎞 <a href="https://youtu.be/vEMIBglapVM">2024 Motion Showreel</a>- Animated data visualizations:
 
 <a href="https://youtu.be/vEMIBglapVM"><img src="images/showreel.jpeg" alt="jenna cohen showreel thumbnail" width="250px"></kbd></a>
