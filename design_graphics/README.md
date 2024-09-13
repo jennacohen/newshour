@@ -1,5 +1,29 @@
 # PBS News: Design + Graphics
 
+🎤 <a href="https://www.instagram.com/p/C_w1J18NJ1S/">Harris & Trump debate quotes</a>
+
+<a href="https://www.instagram.com/p/C_w1J18NJ1S/"><img src="images/harris-debate.png" alt="Harris debate quote thumbnail" width="90px"></a><a href="https://www.instagram.com/p/C_w7QZltJ1X/"><img src="images/trump-debate-1.png" alt="Trump debate quote thumbnail" width="90px"></a><a href="https://www.instagram.com/p/C_w8vagOpw4/"><img src="images/trump-debate-2.png" alt="Trump debate quote thumbnail" width="90px"></a>
+
+🧑‍🧒 <a href="https://www.instagram.com/p/C_dONmsJGhr/?img_index=1">Parental stress</a>
+
+<a href="https://www.instagram.com/p/C_dONmsJGhr/?img_index=1"><img src="images/parental-stress.png" alt="Parental stress thumbnail" width="250px"></a>
+
+💉 <a href="https://www.instagram.com/p/C_BsEWIvWZm/">Updated COVID vaccines</a>
+
+<a href="https://www.instagram.com/p/C_BsEWIvWZm/"><img src="images/new-covid-vax.png" alt="Updated COVID vaccines thumbnail" width="250px"></a>
+
+🏈 <a href="https://www.instagram.com/p/C-9Y_jxuy4k/">Tim Walz DNC speech</a>
+
+<a href="https://www.instagram.com/p/C-9Y_jxuy4k/"><img src="images/walz.png" alt="Tim Walz DNC speech thumbnail" width="250px"></a>
+
+🎵 <a href="https://www.instagram.com/p/C-8wk9OuA_z/">DNC roll call</a>
+
+<a href="https://www.instagram.com/p/C-8wk9OuA_z/"><img src="images/dnc.png" alt="DNC roll call thumbnail" width="250px"></a>
+
+🥇 <a href="https://www.instagram.com/p/C-D81FJs3pO/">U.S. women win Olympic gold in team gymnastics final</a>
+
+<a href="https://www.instagram.com/p/C-D81FJs3pO/"><img src="images/olympics.png" alt="U.S. women win Olympic gold in team gymnastics final thumbnail" width="250px"></a>
+
 🗳️ <a href="https://www.instagram.com/p/C9shVLMREXw/ ">Biden endorses Harris</a>
 
 <a href="https://www.instagram.com/p/C9shVLMREXw/ "><img src="images/harris-endorsement.jpeg" alt="Biden endorses Harris thumbnail" width="250px"></a>
