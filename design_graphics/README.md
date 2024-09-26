@@ -2,7 +2,7 @@
 
 🎤 <a href="https://www.instagram.com/p/C_w1J18NJ1S/">Harris & Trump debate quotes</a>
 
-<a href="https://www.instagram.com/p/C_w1J18NJ1S/"><img src="images/harris-debate.png" alt="Harris debate quote thumbnail" width="90px"></a><a href="https://www.instagram.com/p/C_w7QZltJ1X/"><img src="images/trump-debate-1.png" alt="Trump debate quote thumbnail" width="90px"></a><a href="https://www.instagram.com/p/C_w8vagOpw4/"><img src="images/trump-debate-2.png" alt="Trump debate quote thumbnail" width="90px"></a>
+<a href="https://www.instagram.com/p/C_w1J18NJ1S/"><img src="images/harris-debate.png" alt="Harris debate quote thumbnail" width="150px"></a><a href="https://www.instagram.com/p/C_w7QZltJ1X/"><img src="images/trump-debate-1.png" alt="Trump debate quote thumbnail" width="150px"></a><a href="https://www.instagram.com/p/C_w8vagOpw4/"><img src="images/trump-debate-2.png" alt="Trump debate quote thumbnail" width="150px"></a>
 
 🧑‍🧒 <a href="https://www.instagram.com/p/C_dONmsJGhr/?img_index=1">Parental stress</a>
 

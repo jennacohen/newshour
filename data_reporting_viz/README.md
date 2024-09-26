@@ -1,5 +1,13 @@
 # PBS News: Data Reporting + Visualizations
 
+🇺🇸 <a href="https://www.pbs.org/newshour/politics/poll-harris-narrowly-leads-trump-but-hes-ahead-with-these-key-groups">Poll: Harris narrowly leads Trump, but he’s ahead with these key groups</a>- Data & graphic visualizations:
+
+<a href="https://www.pbs.org/newshour/politics/poll-harris-narrowly-leads-trump-but-hes-ahead-with-these-key-groups"><img src="images/sept-poll.png" alt="September polling thumbnail" width="250px"></kbd></a>
+
+🇺🇸 <a href="https://www.pbs.org/newshour/politics/before-harris-vp-pick-how-americans-feel-about-possible-running-mates">Harris VP pick: Here’s how Americans feel about Tim Walz </a>- Data & graphic visualizations:
+
+<a href="https://www.pbs.org/newshour/politics/before-harris-vp-pick-how-americans-feel-about-possible-running-mates"><img src="images/aug-poll.png" alt="august polling thumbnail" width="250px"></kbd></a>
+
 🇺🇸 <a href="https://www.pbs.org/newshour/politics/majority-of-americans-dont-want-biden-as-the-democratic-candidate-but-he-hasnt-lost-ground-to-trump-poll-says ">These 3 Democrats didn’t do better than Biden in this poll against Trump. They also didn’t do any worse </a>- Data & graphic visualizations:
 
 <a href="https://www.pbs.org/newshour/politics/majority-of-americans-dont-want-biden-as-the-democratic-candidate-but-he-hasnt-lost-ground-to-trump-poll-says "><img src="images/july-poll.png" alt="dem polling thumbnail" width="250px"></kbd></a>
