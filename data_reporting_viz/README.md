@@ -1,5 +1,9 @@
 # PBS News: Data Reporting + Visualizations
 
+🇺🇸 <a href="https://www.pbs.org/newshour/nation/live-map-helene">Live Map: Track the path of Hurricane Helene</a>- Interactive data visualization:
+
+<a href="https://www.pbs.org/newshour/nation/live-map-helene"><img src="images/hurricane-tracker.png" alt="Live Map: path of Hurricane Helene thumbnail" width="250px"></kbd></a>
+
 🇺🇸 <a href="https://www.pbs.org/newshour/politics/poll-harris-narrowly-leads-trump-but-hes-ahead-with-these-key-groups">Poll: Harris narrowly leads Trump, but he’s ahead with these key groups</a>- Data & graphic visualizations:
 
 <a href="https://www.pbs.org/newshour/politics/poll-harris-narrowly-leads-trump-but-hes-ahead-with-these-key-groups"><img src="images/sept-poll.png" alt="September polling thumbnail" width="250px"></kbd></a>
