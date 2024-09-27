@@ -1,6 +1,6 @@
 # PBS News: Data Reporting + Visualizations
 
-🇺🇸 <a href="https://www.pbs.org/newshour/nation/live-map-helene">Live Map: Track the path of Hurricane Helene</a>- Interactive data visualization:
+🌀 <a href="https://www.pbs.org/newshour/nation/live-map-helene">Live Map: Track the path of Hurricane Helene</a>- Interactive data visualization:
 
 <a href="https://www.pbs.org/newshour/nation/live-map-helene"><img src="images/hurricane-tracker.png" alt="Live Map: path of Hurricane Helene thumbnail" width="250px"></kbd></a>
 
