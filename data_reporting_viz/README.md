@@ -52,6 +52,14 @@
 
 <a href="https://www.pbs.org/newshour/arts/how-many-book-bans-were-attempted-in-your-state-use-this-map-to-find-out"><kbd><img src="images/book-bans.png" alt="book bans map" width="250px"/></kbd></a>
 
+🗳️ <a href="https://www.pbs.org/newshour/politics/why-should-you-care-about-your-secretary-of-state">How your secretary of state affects elections and why you should care</a>- Data reporting & visualization:
+
+<a href="https://www.pbs.org/newshour/politics/why-should-you-care-about-your-secretary-of-state"><kbd><img src="images/election-ceo.png" alt="book bans map" width="250px"/></kbd></a>
+
+🗳️ <a href="https://www.pbs.org/newshour/politics/who-runs-elections-in-your-state-use-our-map-to-find-out">Who runs elections in your state? Use our map to find out</a>- Data reporting & visualization:
+
+<a href="https://www.pbs.org/newshour/politics/who-runs-elections-in-your-state-use-our-map-to-find-out"><kbd><img src="images/sos.png" alt="book bans map" width="250px"/></kbd></a>
+
 🫄 <a href="https://www.pbs.org/newshour/nation/how-south-dakota-voters-could-help-save-the-lives-of-uninsured-moms">Here’s what the pregnant and uninsured face in South Dakota </a>- Data visualization & page design:
 
 <a href="https://www.pbs.org/newshour/nation/how-south-dakota-voters-could-help-save-the-lives-of-uninsured-moms"><kbd><img src="images/sd-medicaid.jpg" alt="south dakota medicaid story thumbnail" width="250px"/></kbd></a>
