@@ -1,5 +1,17 @@
 # PBS News: Design + Graphics
 
+💵 <a href="https://www.instagram.com/p/DCUzFLHOE9M/">Department of Government Efficiency</a>
+
+<a href="https://www.instagram.com/p/DCUzFLHOE9M/"><img src="images/doge.jpeg" alt="Department of Government Efficiency thumbnail" width="250px"></a>
+
+🗺️ <a href="https://www.instagram.com/p/DCFdtf8O5K7/?img_index=1">Abortion amendments</a>
+
+<a href="https://www.instagram.com/p/DCFdtf8O5K7/?img_index=1"><img src="images/abortion-measures.png" alt="Abortion amendments thumbnail" width="250px"></a>
+
+🎤 <a href="https://www.instagram.com/p/DAmtSfOsOXm/">Vance & Walz debate quotes</a>
+
+<a href="https://www.instagram.com/p/DAmtSfOsOXm/"><img src="images/walz-1.1.jpeg" alt="Walz debate quote thumbnail" width="150px"></a><a href="https://www.instagram.com/p/DAmpvVbvQ7b/"><img src="images/vance-1.jpeg" alt="Vance debate quote thumbnail" width="150px"></a><a href="https://www.instagram.com/p/DAmyTDsu6Cs/"><img src="images/walz-2.jpeg" alt="Walz debate quote thumbnail" width="150px"></a>
+
 🎤 <a href="https://www.instagram.com/p/C_w1J18NJ1S/">Harris & Trump debate quotes</a>
 
 <a href="https://www.instagram.com/p/C_w1J18NJ1S/"><img src="images/harris-debate.png" alt="Harris debate quote thumbnail" width="150px"></a><a href="https://www.instagram.com/p/C_w7QZltJ1X/"><img src="images/trump-debate-1.png" alt="Trump debate quote thumbnail" width="150px"></a><a href="https://www.instagram.com/p/C_w8vagOpw4/"><img src="images/trump-debate-2.png" alt="Trump debate quote thumbnail" width="150px"></a>
