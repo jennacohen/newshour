@@ -1,5 +1,21 @@
 # PBS News: Data Reporting + Visualizations
 
+🌎 <a href="https://www.instagram.com/p/DCaXTLlsWBe/?img_index=1">U.S. had world's biggest drop in emissions from 2022-2023</a>- Data & graphic visualizations:
+
+<a href="https://www.instagram.com/p/DCaXTLlsWBe/?img_index=1"><img src="images/emission-drop.jpeg" alt="US emissions drop thumbnail" width="250px"></kbd></a>
+
+🇺🇸 <a href="https://www.instagram.com/p/DCFjEVHvC_V/">How different groups voted for president in 2024</a>- Data & graphic visualizations:
+
+<a href="https://www.instagram.com/p/DCFjEVHvC_V/"><img src="images/gender-by-race.jpeg" alt="gender by race thumbnail" width="250px"></kbd></a>
+
+🇺🇸 <a href="https://www.instagram.com/p/DB-DG1APyOb/?img_index=1">Harris cuts into Trump's lead among male voters</a>- Data & graphic visualizations:
+
+<a href="https://www.instagram.com/p/DB-DG1APyOb/?img_index=1"><img src="images/2024-nov_gender.jpeg" alt="Nov polling, gender gap thumbnail" width="250px"></kbd></a>
+
+🇺🇸 <a href="https://www.instagram.com/p/DB9Sk0Ut3AM/">Harris has 4-point lead over Trump in final PBS News/NPR/Marist election poll</a>- Data & graphic visualizations:
+
+<a href="https://www.instagram.com/p/DB9Sk0Ut3AM/"><img src="images/2024-nov_h2h.jpeg" alt="Nov polling thumbnail" width="250px"></kbd></a>
+
 🌀 <a href="https://www.pbs.org/newshour/nation/live-map-helene">Live Map: Track the path of Hurricane Helene</a>- Interactive data visualization:
 
 <a href="https://www.pbs.org/newshour/nation/live-map-helene"><img src="images/hurricane-tracker.png" alt="Live Map: path of Hurricane Helene thumbnail" width="250px"></kbd></a>
