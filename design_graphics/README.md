@@ -1,5 +1,17 @@
 # PBS News: Design + Graphics
 
+🇺🇸 <a href="https://www.instagram.com/newshour/p/DGn-w-jJfLN/?img_index=1">Federal workers explainer</a>
+
+<a href="https://www.instagram.com/newshour/p/DGn-w-jJfLN/?img_index=1"><img src="images/fed-workers-01 Large.jpeg" alt="federal worker explainer thumbnail" width="250px"></a>
+
+💵 <a href="https://www.instagram.com/newshour/p/DGDr1s1zGPY/?img_index=1">Impoundment explainer</a>
+
+<a href="https://www.instagram.com/newshour/p/DGDr1s1zGPY/?img_index=1"><img src="images/impoundment-01 Large.jpeg" alt="impoundment explainer thumbnail" width="250px"></a>
+
+🎤 <a href="https://www.instagram.com/newshour/p/DFoGdfWPzs_/?img_index=1">2025 Grammys recap</a>
+
+<a href="https://www.instagram.com/newshour/p/DFoGdfWPzs_/?img_index=1"><img src="images/grammys-01 Large.jpeg" alt="grammys recap thumbnail" width="250px"></a>
+
 💵 <a href="https://www.instagram.com/p/DCUzFLHOE9M/">Department of Government Efficiency</a>
 
 <a href="https://www.instagram.com/p/DCUzFLHOE9M/"><img src="images/doge.jpeg" alt="Department of Government Efficiency thumbnail" width="250px"></a>
